@@ -6,3 +6,7 @@ Utilisation de la fonction DEEP_SLEEP pour réduire la consommation batterie, su
 => Strap GPIO16 sur RST
 
 http://framboiseaupotager.blogspot.com/2019/09/tout-sur-le-deep-sleep-des-esp8266.html
+
+Pour completer le projet il faut créer un fichier :
+identifiants.h
+qui contient les credentials du WIFI.
